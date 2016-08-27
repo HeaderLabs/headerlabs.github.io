@@ -7,16 +7,16 @@ baseurl: "https://www.headerlabs.com" # the subpath of your site, e.g. /blog/
 url: "https://www.headerlabs.com/new" # the base hostname & protocol for your site
 
 # User setting
-owner: Headerlabs Co.
-email: head@headerlabs.com
-facebook_username: nowprem
-twitter_username: premcarver
-github_username: premcarver
+owner: Headerlabs
+email: info@headerlabs.com
+facebook_username: headerlab
+twitter_username: headerlabs
+github_username: headerlabs
 address:
-  - line: A111111
-  - line: A22222
+  - line: 1701 N. California Blvd. 
+  - line: \#62 Walnut Creek, CA 94596
   # Feel free to add more lines here 
-telephone: +++0982301803
+telephone: +1.510.393.2286
 copyright: headerlabs.com
 
 # API settings
